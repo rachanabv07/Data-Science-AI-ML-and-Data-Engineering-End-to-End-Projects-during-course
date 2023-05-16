@@ -1,6 +1,6 @@
 
 # End to End Machine Learning - California Housing Prediction
-A brief description of what this project does and who it's for
+The objective of the California Housing Prediction is to develop a model that can accurately predict housing prices in California based on various features such aslongitude, latitude,	housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity.
 
 ## Dataset
 - Dataset is based on data from the 1990 California census.
